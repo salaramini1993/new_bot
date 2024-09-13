@@ -5,3 +5,4 @@ right
 wow
 great
 solidity
+delete
