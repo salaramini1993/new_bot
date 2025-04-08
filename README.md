@@ -9,5 +9,5 @@ great
  
 
 solidity    
-delete
+delete 
 kl  
